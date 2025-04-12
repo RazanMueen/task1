@@ -1,0 +1,23 @@
+Theoretical Part:
+1.
+
+a) git status
+   displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
+
+b) git init
+   starts a new Git project. It sets up Git in the folder so we can track changes. It’s usually the first command we use in a new project.
+
+c) git commit
+    saves the changes 
+
+d) git push
+   sends the saved changes to GitHub so others can see them too.
+
+***********************************************************************************************************
+2.
+
+I don’t agree, (git add) lets us choose which changes you want to save.
+Without it, we can’t control our work well.
+It helps us stay organized and avoid mistakes.
+
+
